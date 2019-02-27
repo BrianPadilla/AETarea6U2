@@ -1,0 +1,31 @@
+Registro: 1
+NC:  14400982
+Nombre:  Brian Efren Padilla Simon
+Calificacion:  80Registro: 2
+NC:  14400983
+Nombre:  Jose Jose Chavez Quico
+Calificacion:  50Registro: 3
+NC:  12300100
+Nombre:  Ramón Valdez
+Calificacion:  10Registro: 4
+NC:  11500220
+Nombre:  Florinda Meza
+Calificacion:  20Registro: 5
+NC:  13300101
+Nombre:  Maria Antonieta de las Nieves
+Calificacion:  70Registro: 6
+NC:  15120120
+Nombre:  Jose Antonio Macias
+Calificacion:  100Registro: 7
+NC:  18700100
+Nombre:  Mario Antonio Arvizu
+Calificacion:  100Registro: 8
+NC:  14400980
+Nombre:  Jose Miguel Cervantes Jimenez
+Calificacion:  90Registro: 9
+NC:  14400990
+Nombre:  Denisse Yaneth Espinoza Abando
+Calificacion:  100Registro: 10
+NC:  14400984
+Nombre:  Juventino Perez Peraza
+Calificacion:  100
